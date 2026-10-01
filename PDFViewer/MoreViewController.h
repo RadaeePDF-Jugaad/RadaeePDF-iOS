@@ -1,0 +1,20 @@
+//
+//  MoreViewController.h
+//  PDFViewer
+//
+//  Created by Radaee on 12-12-9.
+//  Copyright (c) 2012年 Radaee. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+@interface MoreViewController : UIViewController <UITableViewDelegate, UITableViewDataSource>
+{
+    
+}
+
+@property(strong,retain)UITableView *partitationTableView;
+@property(strong,retain)UITableViewCell *partitationTableViewCell;
+- (BOOL)isPortrait;
+-(void)performWillRotateOrientation:(UIInterfaceOrientation)toInterfaceOrientation;
+@end

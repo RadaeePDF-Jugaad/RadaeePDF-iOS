@@ -1,4 +1,4 @@
-# RadaeePDF SDK for iOS — Premium and Classic in a single project
+# RadaeePDF SDK for iOS — Master and Classic in a single project
 
 <img src="https://www.radaeepdf.com/wp-content/uploads/2024/08/solo_butterly_midres.png" style="width:100px;">
 
